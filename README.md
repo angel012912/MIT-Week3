@@ -1,5 +1,11 @@
-# Week3
+# <img src="https://globalalumni.xpro.mit.edu/wp-content/uploads/2020/03/main-nav-logo.png" alt="MIT xPRO Logo" style="float: center; margin-right: 50px;" width="200"/>  Week3
 
-Porpouse: The porpouse of this week was to learn about how loops and functions works in Javascript
+# Description 
+The porpouse of this project was to learn about how loops and functions works in Javascript as part of excercises I did during week 3 for the  MIT xPro programming certificate.
 
-In this repositorie is stored all the excercises I did during the week 3 for the MIT xPro certificate of programming
+# Main Learnings 
+* Basic Javascript concepts
+
+# Installation
+* Download the repository
+* Open the <code>tablesExcercise.html</code> file on your browser
